@@ -3,23 +3,23 @@ This project focuses on analyzing insurance risk factors and claims data using P
 
 🔹 Key Insights & Features
 
-      👉   Risk Segmentation – Categorized customers based on age, policy type, premium, and claim history.
+      👉  Risk Segmentation – Categorized customers based on age, policy type, premium, and claim history.
 
       👉  Claims Analysis – Identified trends in claim frequency, severity, and total claim amounts.
 
       👉  Loss Ratio Tracking – Monitored the ratio of claims paid to premiums earned.
 
-      👉 Customer Demographics – Visualized risk patterns across gender, age group, and region.
+      👉  Customer Demographics – Visualized risk patterns across gender, age group, and region.
 
-      👉 Policy Performance – Compared different policy types and their associated risks.
+      👉  Policy Performance – Compared different policy types and their associated risks.
 
 🔹 Tools & Technologies
 
        📌 Power BI – Data modeling, DAX calculations, and interactive dashboards.
 
-       📌  Data Cleaning & Transformation – Using Power Query for preprocessing.
+       📌 Data Cleaning & Transformation – Using Power Query for preprocessing.
 
-       📌  KPIs Implemented:
+       📌 KPIs Implemented:
 
                 *  Claim Frequency
 
